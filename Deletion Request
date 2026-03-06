@@ -4,5 +4,7 @@ Faith Flow does not require user accounts. All personal data (notes, bookmarks, 
 
 To request deletion of server-side data (prayer wall posts, anonymous identifiers, push notification tokens), email wesleykthedev@gmail.com.
 
+There's also an option to clear your data inside the app itself under profile at the bottom of the page.
+
 Data deleted: prayer submissions, anonymous user ID, FCM token, rate limit records.
 Typical processing time: within 30 days.
